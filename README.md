@@ -9,16 +9,16 @@ This machine learning project aims to create a Real Estate Price Prediction Mode
 # Features
 Features:
 
-Area: The total area of the residential property in square feet or square meters.<br/>
-Number of Bedrooms: The number of bedrooms in the property, which indicates its size and accommodation capacity.<br/>
-Number of Bathrooms: The count of bathrooms, including both full and half baths.<br/>
-Location: The geographical location of the property, which can significantly impact its price.<br/>
-Age of the Property: The age of the property in years since construction, as newer properties might be valued higher.<br/>
-Amenities: A binary feature indicating the presence or absence of amenities like a swimming pool, garden, gym, parking facilities, etc.<br/>
-Proximity to Essential Services: A metric representing the distance to nearby essential services like schools, hospitals, public transportation, and shopping centers.<br/>
-Property Condition: A categorical variable reflecting the overall condition of the property, such as "Excellent," "Good," "Fair," or "Needs Renovation."<br/>
-Neighborhood Trends: Historical price trends of properties in the neighborhood, indicating whether the area is becoming more or less desirable.<br/>
-Market Demand: An index representing the current demand for residential properties in the region.
+<b>Area</b>: The total area of the residential property in square feet or square meters.<br/>
+<b>Number of Bedrooms</b>: The number of bedrooms in the property, which indicates its size and accommodation capacity.<br/>
+<b>Number of Bathrooms</b>: The count of bathrooms, including both full and half baths.<br/>
+<b>Location</b>: The geographical location of the property, which can significantly impact its price.<br/>
+<b>Age of the Property</b>: The age of the property in years since construction, as newer properties might be valued higher.<br/>
+<b>Amenities</b>: A binary feature indicating the presence or absence of amenities like a swimming pool, garden, gym, parking facilities, etc.<br/>
+<b>Proximity to Essential Services</b>: A metric representing the distance to nearby essential services like schools, hospitals, public transportation, and shopping centers.<br/>
+<b>Property Condition</b>: A categorical variable reflecting the overall condition of the property, such as "Excellent," "Good," "Fair," or "Needs Renovation."<br/>
+<b>Neighborhood Trends</b>: Historical price trends of properties in the neighborhood, indicating whether the area is becoming more or less desirable.<br/>
+<b>Market Demand</b>: An index representing the current demand for residential properties in the region.
 
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
