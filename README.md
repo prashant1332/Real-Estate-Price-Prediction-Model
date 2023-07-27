@@ -9,15 +9,15 @@ This machine learning project aims to create a Real Estate Price Prediction Mode
 # Features
 Features:
 
-Area: The total area of the residential property in square feet or square meters.
-Number of Bedrooms: The number of bedrooms in the property, which indicates its size and accommodation capacity.
-Number of Bathrooms: The count of bathrooms, including both full and half baths.
-Location: The geographical location of the property, which can significantly impact its price.
-Age of the Property: The age of the property in years since construction, as newer properties might be valued higher.
-Amenities: A binary feature indicating the presence or absence of amenities like a swimming pool, garden, gym, parking facilities, etc.
-Proximity to Essential Services: A metric representing the distance to nearby essential services like schools, hospitals, public transportation, and shopping centers.
-Property Condition: A categorical variable reflecting the overall condition of the property, such as "Excellent," "Good," "Fair," or "Needs Renovation."
-Neighborhood Trends: Historical price trends of properties in the neighborhood, indicating whether the area is becoming more or less desirable.
+Area: The total area of the residential property in square feet or square meters.<br/>
+Number of Bedrooms: The number of bedrooms in the property, which indicates its size and accommodation capacity.<br/>
+Number of Bathrooms: The count of bathrooms, including both full and half baths.<br/>
+Location: The geographical location of the property, which can significantly impact its price.<br/>
+Age of the Property: The age of the property in years since construction, as newer properties might be valued higher.<br/>
+Amenities: A binary feature indicating the presence or absence of amenities like a swimming pool, garden, gym, parking facilities, etc.<br/>
+Proximity to Essential Services: A metric representing the distance to nearby essential services like schools, hospitals, public transportation, and shopping centers.<br/>
+Property Condition: A categorical variable reflecting the overall condition of the property, such as "Excellent," "Good," "Fair," or "Needs Renovation."<br/>
+Neighborhood Trends: Historical price trends of properties in the neighborhood, indicating whether the area is becoming more or less desirable.<br/>
 Market Demand: An index representing the current demand for residential properties in the region.
 
 # Tech Used
