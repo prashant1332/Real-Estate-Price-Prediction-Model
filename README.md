@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="Bcwyuwgriljskhwuf" width="80px"><br/>Real Estate Price Prediction Model </h1>
+      <h1> Real Estate Price Prediction Model </h1>
      </div>
 
 
